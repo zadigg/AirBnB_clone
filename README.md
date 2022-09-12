@@ -71,3 +71,4 @@ All the code is tested with the unittest module. The test for the classes are in
 ## Authors
 
 - Abel kibebe - [Abel](https://github.com/zadigg/AirBnB_clone)
+- Natnael Fikre - [Natnael](https://github.com/zadigg/AirBnB_clone)
